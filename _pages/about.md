@@ -4,8 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+## 개발자를 꿈꾸는 한사람의 블로그 입니다...
+### 많이 부족하지만 조금씩 발전해 갈 것입니다.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+``` 
+Java Script!
+```
+> Java Script!
